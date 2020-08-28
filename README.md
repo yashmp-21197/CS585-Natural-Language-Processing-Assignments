@@ -1,7 +1,7 @@
 # CS585-Natural-Language-Processing-Assignments
 My cs585 natural language processing (sp20) assignments.
 
-#Links:
+# Links:
 
 http://www.cs.iit.edu/~cs585/hw1/
 
