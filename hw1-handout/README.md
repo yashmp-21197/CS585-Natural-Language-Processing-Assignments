@@ -1,5 +1,5 @@
 
-#IIT CS 585 Homework 1: Distributional Measures (80 points)
+# IIT CS 585 Homework 1: Distributional Measures (80 points)
 In this lab, you will write a python program, called dist_measures.py. This program should
 Read a list of words from text_a.txt, and calculate the frequency distribution of words in that text.
 Read a list of words from text_b.txt, and calculate the frequency distribution of words in that text.
