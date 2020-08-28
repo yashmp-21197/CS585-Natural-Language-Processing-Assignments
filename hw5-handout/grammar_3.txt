@@ -1,0 +1,9 @@
+# non-terminal rules
+S -> NP VP
+VP -> V NP
+NP -> JJ NP
+
+# terminal rules
+NP -> fish
+V -> fish
+JJ -> fish
