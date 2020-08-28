@@ -1,5 +1,5 @@
 
-#IIT CS 585 Homework 3: Naive Bayes for Text Classification (80 points)
+# IIT CS 585 Homework 3: Naive Bayes for Text Classification (80 points)
 In this lab, you will extend the naive_bayes.py python program to implement the functionality of a Naive Bayes text classifier, and experiment to set the alpha hyperparameter to an optimal value.
 Starting with the naive_bayes.py script, implement the missing calculations where indicated in the code with #TODO comments. Then run the Naive Bayes text classifier on the data set provided (which applies sentiment analysis to movie reviews) using different settings of the count smoothing parameter alpha. Choose the value that you think will give you the best performance on a held-out set of data, and set that as the value of ALPHA in the naive_bayes.py script.
 
