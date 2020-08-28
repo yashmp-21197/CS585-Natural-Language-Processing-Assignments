@@ -1,5 +1,5 @@
 
-#IIT CS 585 Homework 5: CYK Phrase Parsing (80 points)
+# IIT CS 585 Homework 5: CYK Phrase Parsing (80 points)
 In this assignment, you will extend the cyk.py python program to implement the Cocke-Younger-Kasami Parsing algorithm.
 Starting with the cyk.py script, implement the missing functionality where indicated in the code with #TODO comments. (The missing piece to fill in is the bottom-up traversal of the chart to fill in information about constituents that span different subparts of the sentence.)
 
