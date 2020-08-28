@@ -1,6 +1,6 @@
 
-#IIT CS 585 Homework 2: Text Processing
-#2A: Vocabulary (30 points)
+# IIT CS 585 Homework 2: Text Processing
+# 2A: Vocabulary (30 points)
 In this lab, you will write a shell script, called gen_vocab.sh. This program should
 Read a text from standard input (STDIN),
 Identify all of the words in the text, separated by the space character or a newline,
@@ -9,7 +9,7 @@ Download a template script for you to extend, as well as some sample inputs and 
 
 Submit your gen_vocab.sh file to Autolab using the "Submit file" link.
 
-#2B: Compare columns (30 points)
+# 2B: Compare columns (30 points)
 In this lab, you will write a shell script, called compare_cols.sh. This program should
 Read a CSV file from standard input (STDIN).
 Note that in general, CSV files may contain quoted fields with embedded newlines. But for this assignment you can assume that there are no fields with embedded newlines, and therefore each new line represents a new row of the CSV file.
@@ -22,7 +22,7 @@ Download a template script for you to extend, as well as some sample inputs and 
 
 Submit your compare_cols.sh file to Autolab using the "Submit file" link.
 
-#2C: Count articles (20 points)
+# 2C: Count articles (20 points)
 In this lab, you will write a shell script, called count_articles.sh. This program should
 Consider all of the files in the current working directory with names starting with test_ and ending with .txt.
 Print one comma-separated row to standard output (STDOUT) for each input file, with four fields:
